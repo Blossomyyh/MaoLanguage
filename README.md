@@ -1,7 +1,7 @@
 # MaoLanguage
 C program including Reverse Polish expression conversion &amp; Linked list &amp;...
 
-freshman year final project - completed in 2015
+freshman year final project - completed in 2015 (500 lines)
 
 ------
 
